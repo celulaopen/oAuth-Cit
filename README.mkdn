@@ -1,0 +1,10 @@
+## oAuth-Ci&T
+
+# What is it?
+A simple way to authenticate Ci&t user using his ldap credentials.
+
+#TO-DO
+- Need to create some specs. This is just a simple poc to test the whole flow.
+- Create custom services
+- Application :has_many services
+
